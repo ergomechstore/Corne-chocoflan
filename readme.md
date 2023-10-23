@@ -14,9 +14,6 @@ Renders (KiCAD):
 
 ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/24840279/250262684-a827de30-891b-4e85-a59e-82d9c1e70f95.png)
 
-IRL images:
-**Revision 1**: **Not available**
-**Revision 2**: **Not available**
 
 ## Features
 **Revision 1**:
@@ -35,8 +32,7 @@ IRL images:
 - Flip the slide switches from bottom PCB to top PCB.
 
 ## Firmware
-**Revision 1**: **Coming soon!**
-**Revision 2**: **Coming soon!**
+- This revision of the Corne keyboard is totally compatible with the firmware of the classic corne.
 
 ## Layout
 
