@@ -38,3 +38,4 @@ Renders (KiCAD):
 
 ![image](https://user-images.githubusercontent.com/24840279/232987373-6986482f-4673-4b58-9e21-869257d4bc7d.png)
 
+Kits and fully built keyboard can be bought at https://ergomech.store
